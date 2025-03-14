@@ -31,7 +31,7 @@ public class Hello {
         // creo un oggetto ConsoleReader
         ConsoleReader console = new ConsoleReader(System.in);
         
-        System.out.println("Quanti anni hai ?");
+        System.out.println("Hey, quanti anni hai ?");
         // leggo un intero
         int anni = console.readInt();
         // stampa valore inserito
