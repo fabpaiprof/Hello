@@ -40,7 +40,7 @@ public class Hello {
         // calcolo anno nascita
         int anno = 2025 - anni;
         // stampa anno nascita
-        System.out.println("Quindi sei nato nel: " + anno);
+        System.out.println("Quindi sei nato nell'anno: " + anno);
         
     }
 
