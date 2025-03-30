@@ -36,6 +36,11 @@ public class Hello {
         int anni = console.readInt();
         // stampa valore inserito
         System.out.println("Anni: " + anni);
+
+        // calcolo anno nascita
+        int anno = 2025 - anni;
+        // stampa anno nascita
+        System.out.println("Quindi sei nato nel: " + anno);
         
     }
 
